@@ -1,0 +1,20 @@
+# Theme - matches iTerm2's default dark color palette
+theme = iTerm2 Tango Dark
+
+# Background - dark teal to match your iTerm2 look
+background = #003340
+
+# Transparency - see through to docs/videos behind the terminal
+background-opacity = 0.65
+
+# Make text thicker so it's readable over transparent background
+font-thicken = true
+font-thicken-strength = 200
+
+# Dim unfocused splits so the active pane is obvious
+unfocused-split-opacity = 0.4
+
+# Thicker blinking bar cursor
+cursor-style = bar
+cursor-style-blink = true
+adjust-cursor-thickness = 3
